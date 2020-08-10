@@ -1,20 +1,22 @@
 {
-	"name" : "labor-digital/countrystatelist",
-	"description" : "Class with a full list of all countries and corresponding states and regions",
-	"keywords" : [
+	"name": "labor-digital/countrystatelist",
+	"description": "Class with a full list of all countries and corresponding states and regions",
+	"keywords": [
 		"labor",
 		"countries",
 		"states"
 	],
-	"authors" : [{
-			"name" : "LABOR",
-			"homepage" : "https://labor.digital",
-			"role" : "Author"
+	"authors": [
+		{
+			"name": "LABOR",
+			"homepage": "https://labor.digital",
+			"role": "Author"
 		}
 	],
-	"autoload" : {
-		"psr-4" : {
-			"CountryStateList\\" : "Classes"
+	"autoload": {
+		"psr-4": {
+			"CountryStateList\\": "Classes"
 		}
-	}
+	},
+	"version": "0.0.1"
 }
